@@ -1,0 +1,49 @@
+img {
+    display:block;
+    height:auto;
+    max-width:100%;
+}
+
+.header {
+    border-bottom: 1px solid #e5e5e5;
+    margin-bottom: 30px;
+}
+
+.header-space {
+    margin-top: 10px;
+}
+.messages {
+    background-color: #18171b;
+    color: #ffffff;
+    height: 380px;
+    overflow: scroll;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 22px;
+}
+.green {
+    color: #56db3a;
+}
+.orange {
+    color: #ff8400;
+}
+.purple {
+    color: #b729d9;
+}
+.blue {
+    color: royalblue;
+}
+.messages div {
+
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+footer ul {
+    align-content: center;
+}
+
+footer .row div {
+    display: block;
+    margin-left: 10px;
+    height: 60px;
+}
